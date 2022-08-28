@@ -1,6 +1,6 @@
 <template lang="">
     <div class="auth">
-        <div class="auth_wrapper">123</div>
+        <div class="auth_wrapper">AuthPage</div>
     </div>
 </template>
 <script>
