@@ -1,3 +1,9 @@
+export const actions = {
+	nuxtServerInit () {
+        console.log('nuxtServerInit');
+	}
+}
+
 export const state = () => ({
     prood: [1, 2, 3]
   })
